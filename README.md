@@ -44,7 +44,18 @@ The dataset includes:
 - **Top Cuisines**: Chineese, Nort Indian, Indian
 - **High Delivery Time Cities**: Kolkata, Chennai, Pune
 
---
+---
 
 ## Visualizations
+--**Top 10 Cities with Most Restaurants**
+![Top 10 cities](https://github.com/user-attachments/assets/0070cef3-8275-4e6e-a16b-dfa84025688a)
+
+--**Top 10 Most Popular Cuisines**
+![Top 10 cuisines](https://github.com/user-attachments/assets/b2cb6cc9-b872-4aca-9c8d-472799ffcb59)
+
+--**Realtionship between Price and Ratings**
+![Relatonship between Ratings and Price](https://github.com/user-attachments/assets/6773fcff-c126-4bb2-bd37-8c7f09b70401)
+
+
+
 
